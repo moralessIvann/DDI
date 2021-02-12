@@ -1,2 +1,2 @@
 # ddi
-Repositorio para el almacenamiento de práctica de la clase de Diseño de Interacciones.
+Repositorio para el almacenamiento de prácticas de la clase de Diseño de Interacciones.
