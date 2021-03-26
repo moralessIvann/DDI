@@ -1,0 +1,13 @@
+# Blender3D MTL File: INJ_iOS_HERO_Clark_Kent_Superman_Man_Of_Steel.blend
+# Material Count: 1
+newmtl INJ_iOS_HER_CKE_MOS_B
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd INJ_iOS_HERO_Clark_Kent_Superman_Man_Of_Steel_Body_D.png
+
+
